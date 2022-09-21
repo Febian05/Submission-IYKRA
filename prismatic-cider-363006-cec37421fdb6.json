@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prismatic-cider-363006",
+  "private_key_id": "cec37421fdb6f5546cc31de3749b1c5c86765f80",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdbOfZ/LsgHjVB\nGpyKpJWkH3hWHvXhWkVsxYK2NJ3X0YgZkYgdUqR9rRnCz/TAbUsuW7UASGXyh7Tq\nE0x3cqAUg2JFE+Bc4YwhcGyZurP5YbOqxhtXF14WmL4RlwmUZ95KlMPdXXV6uDLk\nBqCfuP9njnIZOFDATrQ6pvHtIUdtuS2xpmX1kC3+6SSXTqS0BhFVrcRvzmpw0vmf\nR5613BuUgYF1Y9a9+H/oXl3nAZUWO3XBIEKj1iMtUVYSLUvhyFkxjQGao2n2wrLd\neCSBCL+MpgLcjGwjgnqrb+dHObcGKnv0dyK2uOjUmbEvh+rzapg36Zl8JEU9gFT6\nGtJS5Vf/AgMBAAECggEACK5v6q6LgaddjCdoctEgItavB6VgG41IAos95Dns5FzN\nOr9neErYsyq5w1cW8AJ4+6DR2Gh+QsOKVtEZ4ucGGrfJ/w5X8hxPu7HmOCLHUqQ/\ngJcS1FfQsw8bCKKE2CI4Z3Esur2i0QRuzlzqKEj/DobZt15rYBbV3yTTgGoZHFaf\nHFI+Y4jy1Shj/jpKxW3Wm8BtFDA2qgmvcqnO03ZVeHjs9LghasvtcCeDVxwifdxi\nqr4SIUyX0pD2VirkVDcy/oKLwpVLBqW38VIcmS6sKoPUCR7E8cLPyeix9Js2Z7qX\nM89eotx9PLyIyFX40NXvqpYAJNT22xm9RiyX8u6/UQKBgQD91N0Q7t/hmYvYqVcr\nqW0wpOXMb+IPFa2H0Pa5Qt6qZfk7Fryn5bvZvvBSPC1seDNkgM1H7WKzX97oBflx\n1JAoqpYaHr1PyXvo40IpEGSStK4w7JshgjTX6nDvyby4cYepSiX+b4vptNPnNzI8\nfpL1+1TlYhG12crhLPdctOpiDwKBgQDfUStMLluTeLhkucgmBv/kRK3IajMb6pQ8\nHsqyA1aeLyP0T00nR7BYpC3iW7mMGTyR3HiNeyYPyvpJEmgbsoDZVHKq/tuH0296\nnjJnT2/76A8UJZAlRAYYpPOfVlEbLiqs9xMtUkWlL2/0n+/xoFsLvi7ohikbkBWo\naitEpW7bEQKBgQDyOUuseQfUdX5qh07UL54vKWzRpoMG+hza2qJXMGTkHuOza4Mk\nhaq5o+gZ0atXM213nyJGXVYu7nH84Jal9b6L0B3lVyg5F4DTQOtF3IrdJOaFcYSo\neWSMFwEnElCxgkV/W27eWvwdTZ5ZquaZq//6FJlzPB7Cds+QCiUTpuF0KQKBgC6c\nc4wYFPcn+FzVxifhyCFuEFPHjtlh0gTmbGpRdg/YSQniT3lGZlFqG0Wm3YiXb+QF\n/4eQT7Z2KF1+IQq+7FPwY2q7fTjRcfBG+sBDfV0354XN/VM56ofUTiFQ0+b3cOLf\nQzpvdKfwyc5mX5+wV7CQxpuz/PqKzWp0loliekvxAoGBAK8d7/ffZmsXcS6h8TWF\n6kpz9zJ7VbNYYwz67bfnFsKuDNpfaf/Q9Sjd3CvSd+49iRjIfvJhV7CU6WgOzfp4\n2CDpSwCSj7t7InU6AZ8hfbCt7hGBnowRpvQzP3QFDCdc9rZxfjjMidl2Lps3pwzx\nIQyW/V6LUk0w0iE023dAv6Mr\n-----END PRIVATE KEY-----\n",
+  "client_email": "claoudstorage@prismatic-cider-363006.iam.gserviceaccount.com",
+  "client_id": "102003777394330111201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/claoudstorage%40prismatic-cider-363006.iam.gserviceaccount.com"
+}
